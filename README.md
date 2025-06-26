@@ -1,4 +1,4 @@
 # CODSOFT
-Hello, this is a repository of the tasks done during my internship at Codsoft
+Hello, this is a repository of some simple python projects
 <br>
 Author - Tasmine Hajaresab Nadaf
